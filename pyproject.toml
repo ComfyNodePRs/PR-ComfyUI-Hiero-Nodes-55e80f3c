@@ -2,7 +2,7 @@
 name = "comfyui-hiero-nodes"
 description = "Random useful nodes I've devloped."
 version = "1.0.0"
-license = "LICENSE"
+license = { file = "LICENSE" }
 dependencies = ["numpy", "Pillow", "discord-webhook"]
 
 [project.urls]
